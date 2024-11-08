@@ -8,8 +8,6 @@ I’m always on the lookout for exciting projects and collaborations that push m
 
 # Projects 
 
----
-
 <div align="center">
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMaster4711&repo=FPK)][![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMaster4711&repo=timeswift.de)]
