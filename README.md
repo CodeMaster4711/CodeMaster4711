@@ -1,15 +1,15 @@
 
 # About Me
 
-
+---
 
 👋 Hi there! I’m a 3rd-semester Computer Science student with a passion for tackling new challenges and expanding my technical skills. Right now, I’m working on a timetable project using Tauri and Svelte for the frontend, with Express.js as the backend and SurrealDB as the database. This project is a great opportunity to dive deeper into full-stack development and experiment with new technologies.
 
 I’m always on the lookout for exciting projects and collaborations that push my boundaries and help me grow. 
 
-## Projects 
+# Projects 
 
-
+---
 
 <div align="center">
 
@@ -18,9 +18,9 @@ I’m always on the lookout for exciting projects and collaborations that push m
 
 </div>
 
-## Skills
+# Skills
 
-
+---
 
 <div align="center">
 
@@ -54,8 +54,9 @@ I’m always on the lookout for exciting projects and collaborations that push m
 
 </div>
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
+ ---
 
 <div align="center">
 
@@ -66,12 +67,15 @@ I’m always on the lookout for exciting projects and collaborations that push m
 
 ## 🏆 GitHub Trophies
 
+---
 
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CodeMaster4711&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+---
 
 <div align="center">
 
