@@ -1,5 +1,5 @@
 
-###About Me
+# About Me
 
 ---
 
@@ -7,7 +7,7 @@
 
 I’m always on the lookout for exciting projects and collaborations that push my boundaries and help me grow. 
 
-Projects 
+# Projects 
 
 ---
 
@@ -18,13 +18,14 @@ Projects
 
 </div>
 
-Skills
-
----
+# Skills
 
 <div align="center">
 
-Frontend 
+### Frontend 
+
+---
+
 <img src="https://img.shields.io/badge/-Tauri-FFC131?logo=tauri&logoColor=white&style=for-the-badge" alt="Tauri"/>
 <img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge" alt="Svelte"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML"/>
@@ -35,7 +36,10 @@ Frontend
 <img src="https://img.shields.io/badge/-WordPress-117AC9?logo=wordpress&logoColor=white&style=for-the-badge" alt="WordPress"/>
 <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma"/>
 
-Backend 
+### Backend 
+
+---
+
 <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js"/>
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
 <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" alt="C"/>
@@ -47,16 +51,17 @@ Backend
 <img src="https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/>
 <img src="https://img.shields.io/badge/-Windows%20Terminal-4D4D4D?logo=windows-terminal&logoColor=white&style=for-the-badge" alt="Windows Terminal"/>
 
-Database
+### Database
+
+---
+
 <img src="https://img.shields.io/badge/-SurrealDB-FF5A5F?logo=surrealdb&logoColor=white&style=for-the-badge" alt="SurrealDB"/>
 <img src="https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" alt="MSSQL"/>
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL"/>
 
 </div>
 
- 📊 GitHub Stats
-
- ---
+ # 📊 GitHub Stats
 
 <div align="center">
 
@@ -65,9 +70,8 @@ Database
 
 </div>
 
-🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
----
 
 <div align="center">
 
