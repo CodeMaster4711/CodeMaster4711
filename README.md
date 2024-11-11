@@ -10,7 +10,7 @@ I’m always on the lookout for exciting projects and collaborations that push m
 
 <div align="center">
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMaster4711&repo=TimeSwift-Frontend)(https://github.com/CodeMaster4711/TimeSwift-Frontend.git) ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMaster4711&repo=timeswift.de)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMaster4711&repo=TimeSwift-Frontend) ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMaster4711&repo=timeswift.de)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMaster4711&repo=FPK) ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMaster4711&repo=timeswift.de)
 
