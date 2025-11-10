@@ -2,9 +2,7 @@
 ## About Me
 
 
-👋 Hi there! I’m a 4th-semester Computer Science student with a passion for tackling new challenges and expanding my technical skills. Right now, I’m working on a timetable project using Tauri and Svelte for the frontend, with Rust and Rocket as the backend and SurrealDB as the database. This project is a great opportunity to dive deeper into full-stack development and experiment with new technologies.
-
-I’m always on the lookout for exciting projects and collaborations that push my boundaries and help me grow. 
+👋 Hi there! I’m a 5th-semester Computer Science student with a strong passion for exploring new technologies, solving challenging problems, and continuously expanding my technical skills. I enjoy working across different areas of software development and love collaborating on projects that encourage learning, creativity, and innovation.
 
 
 # Skills
