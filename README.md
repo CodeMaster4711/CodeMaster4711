@@ -6,15 +6,6 @@
 
 I’m always on the lookout for exciting projects and collaborations that push my boundaries and help me grow. 
 
-# Projects 
-
-<div align="center">
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMaster4711&repo=TimeSwift-Frontend) ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMaster4711&repo=timeswift.de)
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMaster4711&repo=FPK) ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMaster4711&repo=timeswift.de)
-
-</div>
 
 # Skills
 
